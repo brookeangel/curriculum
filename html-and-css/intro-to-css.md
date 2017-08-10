@@ -1,7 +1,7 @@
 # Intro to CSS3
 
 ### Projected Time
-TODO
+30 min
 
 ### Prerequisites
   - Students should have a basic understanding of Html structure
